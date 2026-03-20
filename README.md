@@ -77,12 +77,12 @@
         <tr>
             <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
                 <img height="185"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan0e&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan0e&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&count_private=true"
                     alt="Langs" />
             </td>
             <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
                 <img height="185"
-                    src="https://github-readme-stats.vercel.app/api?username=chetan0e&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9"
+                    src="https://github-readme-stats.vercel.app/api?username=chetan0e&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"
                     alt="Stats" />
             </td>
         </tr>
