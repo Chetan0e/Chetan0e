@@ -97,7 +97,7 @@
         </tr>
         <tr>
             <td align="center" colspan="2" style="padding: 15px; border: 1px solid #30363d;">
-                <h3 style="color: #ffffff; margin: 0;">📈 Contribution Graph</h3>
+                <h3 style="color: #ffffff; margin: 0;">📈 Private Repo Contribution Graph</h3>
                 <br />
                 <img width="850"
                     src="https://github-readme-activity-graph.vercel.app/graph?username=chetan0e&hide_border=true&bg_color=0d1117&color=39D353&line=39D353&point=ffffff&title_color=ffffff"
