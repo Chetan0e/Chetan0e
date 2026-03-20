@@ -1,19 +1,121 @@
-<h1 align="center">Hi 👋, I'm Chetan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan0e&label=Profile%20views&color=0e75b6&style=flat" alt="chetan0e" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan0e" alt="chetan0e" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan0e&show_icons=true&locale=en&layout=compact" alt="chetan0e" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan0e&show_icons=true&locale=en" alt="chetan0e" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan0e&" alt="chetan0e" /></p>
+<div align="center">
+    <h2>👋 Hey Everyone, I'm Chetan</h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=600&repeat=false&lines=💻+Welcome+to+My+GitHub+Playground!"
+        alt="Welcome" />
+    <br /><br />
+    <hr style="border: 1px solid #30363d; border-bottom: none;" />
+    <br />
+    <div>
+        <img align="right"
+            src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+            width="350" alt="Developer Setup" />
+        <div align="left" style="line-height: 1.8; font-size: 16px;">
+            🔥 Driven to become better than yesterday, every single day <br />
+            👨‍💻 Engineering scalable and impactful solutions <br />
+            🧠 Advancing in Full Stack, Mobile, and AI engineering <br />
+            🛠️ Enjoy working on a variety of projects <br />
+            🤝 Open to meaningful collaborations and innovation <br />
+            <br />
+            <img src="https://komarev.com/ghpvc/?username=chetan0e&label=SYSTEM+VISITS&color=39D353&style=for-the-badge&labelColor=0d1117"
+                alt="Visitor Count" />
+            <br /><br />
+            <a href="mailto:chetanrangari0e52@gmail.com" target="_blank"><img style="margin-right: 5px;"
+                    src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+                    alt="Gmail" /></a>
+            <a href="https://www.linkedin.com/in/chetan-rangari-97342832b" target="_blank"><img
+                    style="margin-right: 5px;"
+                    src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+                    alt="LinkedIn" /></a>
+            <a href="https://twitter.com/chetan0e" target="_blank"><img style="margin-right: 5px;"
+                    src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"
+                    alt="Twitter" /></a>
+            <a href="https://chetan0e.space" target="_blank"><img style="margin-right: 5px;"
+                    src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff"
+                    alt="Portfolio" /></a>
+        </div>
+        <br clear="all" />
+    </div>
+    <br />
+    <h3 style="color: #ffffff; font-family: monospace;" align="center">💻 Tech Stacks</h3>
+    <br />
+    <div align="center">
+        <img style="margin: 5px;"
+            src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" alt="JS" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python"
+            alt="Python" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java"
+            alt="Java" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin"
+            alt="Kotlin" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart"
+            alt="Dart" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c" alt="C" />
+        <br />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter"
+            alt="Flutter" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js"
+            alt="Node.js" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase"
+            alt="Firebase" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase"
+            alt="Supabase" />
+        <img style="margin: 5px;" src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux"
+            alt="Linux" />
+    </div>
+    <br /><br />
+    <hr style="border: 1px solid #30363d; border-bottom: none;" />
+    <br />
+    <table width="100%"
+        style="background-color: #0d1117; color: #c9d1d9; border-collapse: collapse; border: 1px solid #30363d;">
+        <tr>
+            <td align="center" colspan="2" style="padding: 15px; border: 1px solid #30363d;">
+                <h3 style="color: #ffffff; margin: 0;">📊 Statistics</h3>
+                <br />
+                <b style="color: #c9d1d9;">Chetan0e's GitHub Stats</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+                <img height="185"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan0e&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"
+                    alt="Langs" />
+            </td>
+            <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+                <img height="185"
+                    src="https://github-readme-stats.vercel.app/api?username=chetan0e&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9"
+                    alt="Stats" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="2" style="padding: 15px; border: 1px solid #30363d;">
+                <h3 style="color: #ffffff; margin: 0;">🔥 Contribution Streak</h3>
+                <br />
+                <img height="185"
+                    src="https://streak-stats.demolab.com?user=chetan0e&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
+                    alt="Streak" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="2" style="padding: 15px; border: 1px solid #30363d;">
+                <h3 style="color: #ffffff; margin: 0;">📈 Contribution Graph</h3>
+                <br />
+                <img width="850"
+                    src="https://github-readme-activity-graph.vercel.app/graph?username=chetan0e&hide_border=true&bg_color=0d1117&color=39D353&line=39D353&point=ffffff&title_color=ffffff"
+                    alt="Activity Graph" />
+            </td>
+        </tr>
+    </table>
+    <br /><br />
+    <hr style="border: 1px solid #30363d; border-bottom: none;" />
+    <br />
+    <div align="center">
+        <h3 style="color: #39D353; font-family: monospace;">🧊 3D Contribution Engine</h3>
+        <br />
+        <img width="850"
+            src="https://raw.githubusercontent.com/chetan0e/chetan0e/main/profile-3d-contrib/profile-night-green.svg"
+            alt="3D Contributions" />
+    </div>
+    <br /><br />
+    <hr style="border: 1px solid #30363d; border-bottom: none;" />
+    <br />
+</div>
