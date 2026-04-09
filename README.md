@@ -77,12 +77,12 @@
         <tr>
             <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
                <img height="185"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan0e&layout=compact&theme=dark&cache_seconds=1800"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chetan0e&layout=compact&theme=dark"
   alt="Langs" />
             </td>
             <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
               <img height="185"
-  src="https://github-readme-stats.vercel.app/api?username=chetan0e&show_icons=true&theme=dark&cache_seconds=1800"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=chetan0e&show_icons=true&theme=dark"
   alt="Stats" />
             </td>
         </tr>
