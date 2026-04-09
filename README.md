@@ -76,14 +76,14 @@
         </tr>
         <tr>
             <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-                <img height="185"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan0e&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&count_private=true"
-                    alt="Langs" />
+               <img height="185"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan0e&layout=compact&theme=dark&cache_seconds=1800"
+  alt="Langs" />
             </td>
             <td align="center" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-                <img height="185"
-                    src="https://github-readme-stats.vercel.app/api?username=chetan0e&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"
-                    alt="Stats" />
+              <img height="185"
+  src="https://github-readme-stats.vercel.app/api?username=chetan0e&show_icons=true&theme=dark&cache_seconds=1800"
+  alt="Stats" />
             </td>
         </tr>
         <tr>
@@ -91,17 +91,17 @@
                 <h3 style="color: #ffffff; margin: 0;">🔥 Contribution Streak</h3>
                 <br />
                 <img height="185"
-                    src="https://streak-stats.demolab.com?user=chetan0e&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
-                    alt="Streak" />
+  src="https://github-readme-streak-stats.herokuapp.com?user=chetan0e&theme=dark"
+  alt="Streak" />
             </td>
         </tr>
         <tr>
             <td align="center" colspan="2" style="padding: 15px; border: 1px solid #30363d;">
                 <h3 style="color: #ffffff; margin: 0;">📈 Contribution Graph</h3>
                 <br />
-                <img width="850"
-                    src="https://github-readme-activity-graph.vercel.app/graph?username=chetan0e&hide_border=true&bg_color=0d1117&color=39D353&line=39D353&point=ffffff&title_color=ffffff"
-                    alt="Activity Graph" />
+               <img width="850"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=chetan0e&theme=github-dark"
+  alt="Activity Graph" />
             </td>
         </tr>
     </table>
