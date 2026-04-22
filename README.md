@@ -115,6 +115,16 @@
             src="https://raw.githubusercontent.com/chetan0e/chetan0e/main/profile-3d-contrib/profile-night-green.svg"
             alt="3D Contributions" />
     </div>
+    <hr style="border: 1px solid #30363d; border-bottom: none;" />
+<br />
+
+<div align="center">
+    <h3 style="color: #39D353; font-family: monospace;">🐍 Contribution Snake</h3>
+    <br />
+    <img src="https://raw.githubusercontent.com/chetan0e/chetan0e/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br /><br />
     <br /><br />
     <hr style="border: 1px solid #30363d; border-bottom: none;" />
     <br />
