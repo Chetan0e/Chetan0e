@@ -121,7 +121,7 @@
 <div align="center">
     <h3 style="color: #39D353; font-family: monospace;">🐍 Contribution Snake</h3>
     <br />
-    <img src="https://raw.githubusercontent.com/chetan0e/chetan0e/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/chetan0e/chetan0e/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br /><br />
